@@ -1,0 +1,16 @@
+body{
+font-family: sans-serif;
+}
+img
+.item,
+.image{
+  height: 200px;
+}
+.row td{
+  background: #963;
+}
+a:link{background: :#369;}
+a:visited {color: #369}
+a:hover{text-decoration:none;}
+a:active{color: blue;}
+.block 
